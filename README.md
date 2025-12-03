@@ -11,11 +11,11 @@ Built using Python, Django, AI APIs, OpenCV, and SQLite, SmartHire reduces manua
 ### 🎯 Key Features
 ✔️ **AI Resume Screening**
 
-Extracts text from PDFs using PyMuPDF
+- Extracts text from PDFs using PyMuPDF
 
-Uses spaCy NLP to identify skills, experience, organizations, dates
+- Uses spaCy NLP to identify skills, experience, organizations, dates
 
-Generates match scores between job descriptions and candidate profiles
+- Generates match scores between job descriptions and candidate profiles
 
 ✔️ **Smart Job Matching**
 
