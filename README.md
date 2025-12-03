@@ -19,43 +19,43 @@ Built using Python, Django, AI APIs, OpenCV, and SQLite, SmartHire reduces manua
 
 ✔️ **Smart Job Matching**
 
-AI-based keyword extraction
+-AI-based keyword extraction
 
-Ranking based on resume–job similarity
+-Ranking based on resume–job similarity
 
-Prevents duplicate job applications
+-Prevents duplicate job applications
 
 ✔️ **AI-Generated Exams**
 
-Uses OpenAI GPT-3.5 to generate dynamic questions
+-Uses OpenAI GPT-3.5 to generate dynamic questions
 
-Supports manual and automated question creation
+-Supports manual and automated question creation
 
-Auto-evaluates answers and stores results
+-Auto-evaluates answers and stores results
 
 ✔️ **AI Proctored Online Exams**
 
-OpenCV + YOLOv8 → detects phones, multiple people, fraud
+-OpenCV + YOLOv8 → detects phones, multiple people, fraud
 
-dlib → detects faces, eye movements, blinking
+-dlib → detects faces, eye movements, blinking
 
-Flags suspicious activity and logs violations
+-Flags suspicious activity and logs violations
 
 ✔️ **AI Interview System**
 
-Llama3/ChatGPT-powered chatbot
+-Llama3/ChatGPT-powered chatbot
 
-Asks adaptive interview questions
+-Asks adaptive interview questions
 
-Voice-based interaction
+-Voice-based interaction
 
-Auto-evaluates candidate responses
+-Auto-evaluates candidate responses
 
 ✔️ **Performance Report Generation**
 
-Generates detailed PDF reports using ReportLab
+-Generates detailed PDF reports using ReportLab
 
-Includes scores, feedback, and violation logs
+-Includes scores, feedback, and violation logs
 
 ## 🏗️ System Architecture
 
@@ -81,75 +81,75 @@ PDF/Reports	ReportLab, PyMuPDF
 ## 🛠️ Core Modules
 🔹 **Resume Processing**
 
-PDF extraction
+-PDF extraction
 
-NLP-based entity recognition
+-NLP-based entity recognition
 
-Skill extraction
+-Skill extraction
 
-Match score calculation
+-Match score calculation
 
 🔹 **Job Management**
 
-Post jobs
+-Post jobs
 
-Apply for jobs
+-Apply for jobs
 
-Real-time application tracking
+-Real-time application tracking
 
 🔹 **Exam System**
 
-AI question generation
+-AI question generation
 
-Auto-evaluation
+-Auto-evaluation
 
-AI proctoring
+-AI proctoring
 
-Violation monitoring
+-Violation monitoring
 
 🔹 **Interview System**
 
-AI chatbot interviewing
+-AI chatbot interviewing
 
-Dynamic question transitions
+-Dynamic question transitions
 
-Voice input/output
+-Voice input/output
 
 ## 📊 Results
 
-Reduced manual effort for resume screening
+-Reduced manual effort for resume screening
 
-Faster candidate shortlisting
+-Faster candidate shortlisting
 
-Unbiased AI evaluation
+-Unbiased AI evaluation
 
-Secure and monitored exam environment
+-Secure and monitored exam environment
 
-Automated end-to-end hiring pipeline
+-Automated end-to-end hiring pipeline
 
 ## ⚠️ Current Limitations
 
-Limited browser support for voice features (no Firefox)
+-Limited browser support for voice features (no Firefox)
 
-AI chatbot may misinterpret nuanced responses
+-AI chatbot may misinterpret nuanced responses
 
-No real-time employer notifications yet
+-No real-time employer notifications yet
 
-Pre-recorded avatar lacks real lip-sync
+-Pre-recorded avatar lacks real lip-sync
 
 ## 🔮 Future Enhancements
 
-Upgrade to GPT-4 / improved LLMs
+-Upgrade to GPT-4 / improved LLMs
 
-Real-time lip-syncing for chatbot avatars
+-Real-time lip-syncing for chatbot avatars
 
-Broader browser support
+-Broader browser support
 
-Automated email/SMS notifications
+-Automated email/SMS notifications
 
-Sentiment analysis in interviews
+-Sentiment analysis in interviews
 
-Enhanced security (ID verification, encrypted proctoring footage)
+-Enhanced security (ID verification, encrypted proctoring footage)
 
 🏁 Conclusion
 
